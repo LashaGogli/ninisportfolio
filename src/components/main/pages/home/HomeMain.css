@@ -1,0 +1,61 @@
+.uper-section {
+    width: 100%;
+    margin-top: 50px;
+    position: relative;
+}
+
+.cover-img {
+    width: 100%;
+    z-index: 1;
+}
+
+.inside-picture-div {
+    width: 445px;
+    height: 357px;
+    background-color: white;
+    margin-top: -361px;
+    z-index: 100;
+    position: absolute;
+
+}
+
+.down-section {
+    margin-top: 100px;
+    width: 100%;
+    height: 600px;
+    display: flex;
+}
+
+.down-section-container {
+    width: 100%;
+    height: 600px;
+    background-color: black;
+}
+
+.last-section {
+    width: 100%;
+    height: 300px;
+    background-color: green;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.nininini {
+    height: 600px;
+}
+
+.about-div {
+    background-color: white;
+    width: 50%;
+    height: 600px;
+    display: grid;
+    place-items: center;
+}
+
+.inside-about-div {
+    height: 100%;
+    width: 80%;
+    background-color: white;
+    border-bottom: 1px solid #EAEAEB;
+    border-top: 1px solid #EAEAEB;
+}
