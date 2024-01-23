@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ninisportfolio/static/css/main.f855e6bc.css",
-    "main.js": "/ninisportfolio/static/js/main.6f3f7e12.js",
-    "static/js/787.2ec42b14.chunk.js": "/ninisportfolio/static/js/787.2ec42b14.chunk.js",
-    "static/media/logo.svg": "/ninisportfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/ninisportfolio/static/css/main.ea27bc95.css",
+    "main.js": "/ninisportfolio/static/js/main.7c005140.js",
+    "static/media/tipis surati.png": "/ninisportfolio/static/media/tipis surati.4dafa24e488b045e1d46.png",
+    "static/media/dentist cover.jpg": "/ninisportfolio/static/media/dentist cover.7526fa9a23a607a051f0.jpg",
     "index.html": "/ninisportfolio/index.html",
-    "main.f855e6bc.css.map": "/ninisportfolio/static/css/main.f855e6bc.css.map",
-    "main.6f3f7e12.js.map": "/ninisportfolio/static/js/main.6f3f7e12.js.map",
-    "787.2ec42b14.chunk.js.map": "/ninisportfolio/static/js/787.2ec42b14.chunk.js.map"
+    "static/media/Combined Shape.svg": "/ninisportfolio/static/media/Combined Shape.b18a53dd0f39b5d8c6492e261736a639.svg",
+    "main.ea27bc95.css.map": "/ninisportfolio/static/css/main.ea27bc95.css.map",
+    "main.7c005140.js.map": "/ninisportfolio/static/js/main.7c005140.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.6f3f7e12.js"
+    "static/css/main.ea27bc95.css",
+    "static/js/main.7c005140.js"
   ]
 }
